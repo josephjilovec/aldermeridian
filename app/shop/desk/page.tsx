@@ -1,0 +1,3 @@
+import { ProductGrid } from '@/components/ProductGrid';
+import { productsFor } from '@/lib/catalog';
+export default function DeskPage(){return <main><section className="category-hero" style={{backgroundImage:"url('https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=2200&q=90')"}}><div><p className="eyebrow">SHOP / DESK</p><h1>Desk.</h1><p>Writing tools, kinetic objects, stone, brass, glass, and the pieces that make a working surface feel considered.</p></div></section><section className="section light"><ProductGrid items={productsFor('Desk')}/></section></main>}
