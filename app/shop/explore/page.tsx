@@ -1,0 +1,3 @@
+import { ProductGrid } from '@/components/ProductGrid';
+import { productsFor } from '@/lib/catalog';
+export default function ExplorePage(){return <main><section className="category-hero" style={{backgroundImage:"url('https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=2200&q=90')"}}><div><p className="eyebrow">SHOP / EXPLORE</p><h1>Explore.</h1><p>Objects for travel, observation, and time away from the desk—useful enough to pack, quiet enough to keep.</p></div></section><section className="section light"><ProductGrid items={productsFor('Explore')}/></section></main>}
