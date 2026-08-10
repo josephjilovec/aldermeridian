@@ -1,0 +1,3 @@
+import { ProductGrid } from '@/components/ProductGrid';
+import { productsFor } from '@/lib/catalog';
+export default function CarryPage(){return <main><section className="category-hero" style={{backgroundImage:"url('https://images.unsplash.com/photo-1523292562811-8fa7962a78c8?auto=format&fit=crop&w=2200&q=90')"}}><div><p className="eyebrow">SHOP / CARRY</p><h1>Carry.</h1><p>Compact tools selected for usefulness, restraint, and the simple requirement that anything carried every day should justify the weight.</p></div></section><section className="section light"><ProductGrid items={productsFor('Carry')}/></section></main>}
