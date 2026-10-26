@@ -1,2 +1,7 @@
-# Architecture
-Next.js App Router with typed local catalog and integer-cent prices. The localStorage cart stores only IDs and quantities. The server checkout route reloads trusted catalog data and rejects unavailable items. Stripe and supplier ordering are intentionally disabled.
+# Alder Meridian — Internal Planning Archive
+
+The original operational planning document at this path is preserved in restricted Venture Studio records. This public-safe page intentionally excludes internal supplier, fulfillment, legal-review, and launch planning details.
+
+Please see the public Alder Meridian website and this repository's README for outward-facing project information.
+
+Previous versions may remain available in the public repository's history.
