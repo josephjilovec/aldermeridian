@@ -1,2 +1,7 @@
-# Legal review checklist
-Draft only, not legal advice: business identity; Arizona TPT; sales-tax nexus; privacy, terms, returns and warranties; insurance; supplier agreements; trademark; country-of-origin and labeling; shipping estimates; marketing consent; data retention; and all knife age, state/local, carrier, processor, supplier, and liability restrictions.
+# Alder Meridian — Internal Planning Archive
+
+The original operational planning document at this path is preserved in restricted Venture Studio records. This public-safe page intentionally excludes internal supplier, fulfillment, legal-review, and launch planning details.
+
+Please see the public Alder Meridian website and this repository's README for outward-facing project information.
+
+Previous versions may remain available in the public repository's history.
