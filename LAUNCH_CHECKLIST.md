@@ -1,2 +1,7 @@
-# Launch checklist
-Complete formal trademark clearance for Alder & Meridian; finalize the email, product photographs, specifications, suppliers, IDs, shipping, tax, returns, legal review, test-mode Stripe webhook, order storage, customer email, fulfillment, tracking, and a complete test order. Keep the knife unavailable until every compliance review passes.
+# Alder Meridian — Internal Planning Archive
+
+The original operational planning document at this path is preserved in restricted Venture Studio records. This public-safe page intentionally excludes internal supplier, fulfillment, legal-review, and launch planning details.
+
+Please see the public Alder Meridian website and this repository's README for outward-facing project information.
+
+Previous versions may remain available in the public repository's history.
