@@ -3,6 +3,7 @@ import Link from 'next/link';
 import './globals.css';
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://aldermeridian.summithillholdings.com"),
   title: 'Alder & Meridian | Objects with class',
   description: 'A considered collection of desk objects, carry goods, and useful pieces selected for material, function, and restraint.',
 };
@@ -28,6 +29,6 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <div><b>SHOP</b><Link href="/shop">All objects</Link><Link href="/shop/desk">Desk</Link><Link href="/shop/carry">Carry</Link><Link href="/shop/explore">Explore</Link></div>
       <div><b>STUDIO</b><Link href="/collections">Collections</Link><Link href="/standard">Our Standard</Link><Link href="/about">About</Link></div>
       <div className="footer-bottom">© 2026 Alder & Meridian </div>
-    </footer>
+    <p style={{ gridColumn: "1 / -1", margin: 0, padding: "16px 24px", fontSize: "12px", lineHeight: 1.6 }}><a href="https://summithillholdings.com/" style={{ color: "inherit", textDecoration: "underline", textUnderlineOffset: "3px" }}>Summit Hill Holdings</a></p></footer>
   </body></html>;
 }
